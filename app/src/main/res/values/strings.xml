@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TikBuddy Downloader</string>
+    <string name="home">Home</string>
+    <string name="download">Downloads</string>
+    <string name="Tiktok">Tik Tok</string>
+    <string name="enterurl">Paste Video Url</string>
+    <string name="save">Download</string>
+</resources>
